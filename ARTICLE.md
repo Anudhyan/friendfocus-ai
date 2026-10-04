@@ -129,11 +129,7 @@ I would also like to build a fully offline desktop version where the model and p
 
 That would make the privacy advantage of open-source AI even more meaningful.
 
-## Try it
 
-**Demo:** [PASTE YOUR DEMO VIDEO OR DEPLOYED LINK]
-
-**Code:** [PASTE YOUR GITHUB REPOSITORY LINK]
 
 ## Built for a friend
 
